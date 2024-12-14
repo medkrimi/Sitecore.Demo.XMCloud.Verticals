@@ -15,7 +15,7 @@ SharedFields:
   Value: Basic
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: "mohk-verticals-demo-hcxinlpm3uuwjwsolmhsiw-basic.vercel.app"
+  Value: "mohk-xmcloud-play-verticals-ruhlachnaemlvdaq0ch0a-basic.vercel.app"
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: Basic
@@ -35,4 +35,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6d27b6e0-f2f0-4ba6-b52f-8aaf39e3d257"
+      Value: "8d8d86ea-bd5b-4068-8d1f-e8de8dc48b4c"
