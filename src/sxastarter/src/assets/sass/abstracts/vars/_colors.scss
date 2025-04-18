@@ -2,34 +2,34 @@
 .site-financial {
   --text-body: #333;
   --text-body-inverted: #fff;
-  --text-colored: #034c81;
+  --text-colored: #64008f;
   --text-footer: #fff;
-  --text-accent: #a82a39;
+  --text-accent: #7a1aa3;           /* lighter purple accent */
   --bg-body: #fff;
   --bg-footer: #333;
-  --bg-main: #f0f5f7;
-  --bg-main-alt: #f0f5f7;
-  --bg-color: #c5e4f3;
-  --bg-saturated: #034c81;
-  --bg-accent: #c03021;
-  --border-color: #f0f5f7;
+  --bg-main: #f6f1fa;               /* soft lavender background */
+  --bg-main-alt: #f6f1fa;
+  --bg-color: #d6c1e8;              /* pale purple */
+  --bg-saturated: #4e0070;          /* deep purple */
+  --bg-accent: #7a1aa3;
+  --border-color: #f6f1fa;
   --hr-color: #fff;
   --roundness: 1rem;
 
   .dark & {
     --text-body: #fff;
     --text-body-inverted: #333;
-    --text-colored: #c5e4f3;
+    --text-colored: #d6c1e8;
     --text-footer: #fff;
-    --text-accent: #a82a39;
-    --bg-body: #031827;
+    --text-accent: #caa5df;
+    --bg-body: #1d102b;
     --bg-footer: #333;
-    --bg-main: #034c81;
-    --bg-main-alt: #031827;
-    --bg-color: #034c81;
-    --bg-saturated: #034c81;
-    --bg-accent: #c03021;
-    --border-color: #034c81;
+    --bg-main: #4e0070;
+    --bg-main-alt: #1d102b;
+    --bg-color: #64008f;
+    --bg-saturated: #4e0070;
+    --bg-accent: #7a1aa3;
+    --border-color: #4e0070;
     --hr-color: #fff;
     --roundness: 1rem;
   }
@@ -39,32 +39,32 @@
 .site-services {
   --text-body: #391400;
   --text-body-inverted: #fff;
-  --text-colored: #ff7145;
+  --text-colored: #64008f;
   --text-footer: #391400;
-  --text-accent: #ff7145;
-  --bg-body: #fdf0e9;
-  --bg-footer: #fdf0e9;
-  --bg-main: #fdf0e9;
-  --bg-color: #ff7145;
-  --bg-saturated: #ff7145;
-  --bg-accent: #ff7145;
-  --border-color: #a99185;
+  --text-accent: #7a1aa3;         /* slightly lighter accent */
+  --bg-body: #ffffff;             /* soft lavender background */
+  --bg-footer: #f8f0fb;
+  --bg-main: #ffffff;
+  --bg-color: #64008f;
+  --bg-saturated: #4e0070;        /* deeper purple for contrast */
+  --bg-accent: #7a1aa3;           /* same as text-accent */
+  --border-color: #a991b9;        /* muted purple tone */
   --hr-color: #fff;
   --roundness: 0.375rem;
 
   .dark & {
     --text-body: #fff;
     --text-body-inverted: #391400;
-    --text-colored: #ff7145;
+    --text-colored: #b773d4;
     --text-footer: #fff;
-    --text-accent: #ff7145;
-    --bg-body: #29314f;
-    --bg-footer: #29314f;
-    --bg-main: #29314f;
-    --bg-color: #ff7145;
-    --bg-saturated: #ff7145;
-    --bg-accent: #ff7145;
-    --border-color: #5d5f7f;
+    --text-accent: #dca9f0;       /* soft purple for dark mode */
+    --bg-body: #2b1f39;
+    --bg-footer: #2b1f39;
+    --bg-main: #2b1f39;
+    --bg-color: #64008f;
+    --bg-saturated: #4e0070;
+    --bg-accent: #7a1aa3;
+    --border-color: #7e67a1;
     --hr-color: #fff;
     --roundness: 0.375rem;
   }
