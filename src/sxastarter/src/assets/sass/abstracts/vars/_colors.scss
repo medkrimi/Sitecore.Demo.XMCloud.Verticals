@@ -37,7 +37,7 @@
 
 // Services
 .site-services {
-  --text-body: #391400;
+  --text-body: #000;
   --text-body-inverted: #fff;
   --text-colored: #64008f;
   --text-footer: #391400;
@@ -54,7 +54,7 @@
 
   .dark & {
     --text-body: #fff;
-    --text-body-inverted: #391400;
+    --text-body-inverted: #000;
     --text-colored: #b773d4;
     --text-footer: #fff;
     --text-accent: #dca9f0;       /* soft purple for dark mode */
