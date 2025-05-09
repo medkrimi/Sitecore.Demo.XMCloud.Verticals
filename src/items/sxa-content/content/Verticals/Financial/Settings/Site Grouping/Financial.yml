@@ -24,7 +24,7 @@ SharedFields:
   Value: 1
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: "mohk-xmc-outfrontmedia-ilz8dm2myuygfulp6skiaa-financial.vercel.app"
+  Value: "mohk-customized-vertical-demo-vdfs8zxvfe2o5dmtdbgq-financial.vercel.app"
 - ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
   Hint: POS
   Value: "en=play-finance&fr=play-finance"
@@ -36,7 +36,7 @@ SharedFields:
   Value: *
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "3095148c-7656-4194-80b8-2ccf0c349e39"
+  Value: "aadb0a28-8edd-4374-a322-2597e66e3c4a"
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
   Value: Default
@@ -50,7 +50,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d00d9a2d-6e1e-4120-83ac-b6b1d1b01a1d"
+      Value: "0d809aa8-033e-4c54-9440-4c3251bbfa53"
     - ID: "96cffc48-0bd5-4f70-9b36-d49c844d51ef"
       Hint: Theme
       Value: Financial
