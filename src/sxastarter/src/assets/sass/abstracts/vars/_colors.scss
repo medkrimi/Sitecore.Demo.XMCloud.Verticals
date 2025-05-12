@@ -1,108 +1,109 @@
 // Financial
 .site-financial {
-  --text-body: #333;
-  --text-body-inverted: #fff;
-  --text-colored: #034c81;
-  --text-footer: #fff;
-  --text-accent: #a82a39;
-  --bg-body: #fff;
-  --bg-footer: #333;
-  --bg-main: #f0f5f7;
-  --bg-main-alt: #f0f5f7;
-  --bg-color: #c5e4f3;
-  --bg-saturated: #034c81;
-  --bg-accent: #c03021;
-  --border-color: #f0f5f7;
-  --hr-color: #fff;
+  --text-body: #323232;
+  --text-body-inverted: #ffffff;
+  --text-colored: #0E3E1B;
+  --text-footer: #ffffff;
+  --text-accent: #7EF473;
+  --bg-body: #ffffff;
+  --bg-footer: #323232;
+  --bg-main: #F1EEEA;
+  --bg-main-alt: #F1EEEA;
+  --bg-color: #DFD7CD;
+  --bg-saturated: #0E3E1B;
+  --bg-accent: #7EF473;
+  --border-color: #F1EEEA;
+  --hr-color: #ffffff;
   --roundness: 1rem;
 
   .dark & {
-    --text-body: #fff;
-    --text-body-inverted: #333;
-    --text-colored: #c5e4f3;
-    --text-footer: #fff;
-    --text-accent: #a82a39;
-    --bg-body: #031827;
-    --bg-footer: #333;
-    --bg-main: #034c81;
-    --bg-main-alt: #031827;
-    --bg-color: #034c81;
-    --bg-saturated: #034c81;
-    --bg-accent: #c03021;
-    --border-color: #034c81;
-    --hr-color: #fff;
+    --text-body: #ffffff;
+    --text-body-inverted: #323232;
+    --text-colored: #7EF473;
+    --text-footer: #ffffff;
+    --text-accent: #7EF473;
+    --bg-body: #212427;
+    --bg-footer: #323232;
+    --bg-main: #0E3E1B;
+    --bg-main-alt: #212427;
+    --bg-color: #7EF473;
+    --bg-saturated: #0E3E1B;
+    --bg-accent: #7EF473;
+    --border-color: #0E3E1B;
+    --hr-color: #ffffff;
     --roundness: 1rem;
   }
 }
 
 // Services
 .site-services {
-  --text-body: #391400;
-  --text-body-inverted: #fff;
-  --text-colored: #ff7145;
-  --text-footer: #391400;
-  --text-accent: #ff7145;
-  --bg-body: #fdf0e9;
-  --bg-footer: #fdf0e9;
-  --bg-main: #fdf0e9;
-  --bg-color: #ff7145;
-  --bg-saturated: #ff7145;
-  --bg-accent: #ff7145;
-  --border-color: #a99185;
-  --hr-color: #fff;
+  --text-body: #212427;
+  --text-body-inverted: #ffffff;
+  --text-colored: #0E3E1B;
+  --text-footer: #232326;
+  --text-accent: #7EF473;
+  --bg-body: #ffffff;
+  --bg-footer: #DCD5CE;
+  --bg-main: #ffffff;
+  --bg-color: #7EF473;
+  --bg-saturated: #0E3E1B;
+  --bg-accent: #7EF473;
+  --border-color: #C4B5A4;
+  --hr-color: #ffffff;
   --roundness: 0.375rem;
 
   .dark & {
-    --text-body: #fff;
-    --text-body-inverted: #391400;
-    --text-colored: #ff7145;
-    --text-footer: #fff;
-    --text-accent: #ff7145;
-    --bg-body: #29314f;
-    --bg-footer: #29314f;
-    --bg-main: #29314f;
-    --bg-color: #ff7145;
-    --bg-saturated: #ff7145;
-    --bg-accent: #ff7145;
-    --border-color: #5d5f7f;
-    --hr-color: #fff;
+    --text-body: #ffffff;
+    --text-body-inverted: #212427;
+    --text-colored: #7EF473;
+    --text-footer: #ffffff;
+    --text-accent: #7EF473;
+    --bg-body: #323232;
+    --bg-footer: #323232;
+    --bg-main: #323232;
+    --bg-color: #7EF473;
+    --bg-saturated: #0E3E1B;
+    --bg-accent: #7EF473;
+    --border-color: #A8F0B8;
+    --hr-color: #ffffff;
     --roundness: 0.375rem;
   }
 }
 
-// Backgrounds colors
+// Backgrounds
 $bg-transparent: transparent !default;
-$bg-basic-color: var(--bg-body) !default;
-$bg-basic-color-active: var(--bg-main) !default;
-$bg-light-gray: #f7f7f7 !default;
-$bg-light-gray-active: #dadada !default;
-$bg-blue: var(--bg-color);
-$bg-blue-active: var(--bg-saturated) !default;
-$bg-submenu: #edebeb !default;
-$bg-submenu-active: #f6f6f6 !default;
-$bg-black: #000;
-$bg-black-active: #3d3d3d;
-$bg-dark-gray: #262626;
+$bg-basic-color: #ffffff !default;
+$bg-basic-color-active: #F1EEEA !default;
+$bg-light-gray: #F2F2F2 !default;
+$bg-light-gray-active: #D4D4D4 !default;
+$bg-blue: #7EF473 !default; // Main color repurposed
+$bg-blue-active: #0E3E1B !default; // Secondary dark green
+$bg-submenu: #F1EEEA !default;
+$bg-submenu-active: #DCD5CE !default;
+$bg-black: #000000 !default;
+$bg-black-active: #323232 !default;
+$bg-dark-gray: #323232 !default;
 
-// Text colors
-$text-white: #fff !default;
-$text-heading-color: var(--text-body) !default;
-$text-basic: var(--text-body) !default;
-$text-basic-active: #878787 !default;
-$text-blue: var(--bg-color) !default;
-$text-blue-active: var(--bg-saturated) !default;
-$text-submenu-active: #222 !default;
-$text-disabled: #aaa !default;
-$text-black: #000 !default;
-$text-red: var(--text-accent);
-$text-gray: #262626;
+// Text
+$text-white: #ffffff !default;
+$text-heading-color: #323232 !default;
+$text-basic: #323232 !default;
+$text-basic-active: #898888 !default;
+$text-blue: #7EF473 !default;
+$text-blue-active: #0E3E1B !default;
+$text-submenu-active: #212427 !default;
+$text-disabled: #B1B1B1 !default;
+$text-black: #000000 !default;
+$text-red: #D82216 !default; // From alert-400
+$text-gray: #262626 !default;
 
-// Border colors
-$border-gray: #d2d2d2 !default;
-$border-white: #fff !default;
-$border-basic-color: var(--bg-color) !default;
-$border-basic-active: var(--bg-saturated) !default;
-$border-nav-submenu: #e1e1e1;
+// Borders
+$border-gray: #D4D4D4 !default;
+$border-white: #ffffff !default;
+$border-basic-color: #7EF473 !default;
+$border-basic-active: #0E3E1B !default;
+$border-nav-submenu: #D4D4D4 !default;
+
 
 // Styles for each component separately
 // Accordion
