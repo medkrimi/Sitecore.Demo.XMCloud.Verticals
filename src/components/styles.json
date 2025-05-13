@@ -48,19 +48,6 @@
         }
       },
       {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "large-collection",
-          "slug": "large",
-          "title": "Large",
-          "description": "Large tablets, desktops, tvs",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "breakpoint",
         "props": {
           "query": "(min-width: 1401px)",
@@ -109,19 +96,6 @@
         }
       },
       {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "medium-collection",
-          "slug": "breakpoint--collection--medium",
-          "title": "Medium",
-          "description": "Phones in landscape, tablets",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "breakpoint",
         "props": {
           "query": "(min-width: 768px) and (max-width: 991px)",
@@ -134,19 +108,6 @@
           "title": "Medium",
           "description": "",
           "collectionId": "medium-collection",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "small-collection",
-          "slug": "breakpoint--collection--small",
-          "title": "Small",
-          "description": "Mobile phones and tiny screens",
           "exampleContent": null
         }
       },
@@ -179,6 +140,45 @@
           "title": "Extra small",
           "description": "",
           "collectionId": "small-collection",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "large-collection",
+          "slug": "large",
+          "title": "Large",
+          "description": "Large tablets, desktops, tvs",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "medium-collection",
+          "slug": "breakpoint--collection--medium",
+          "title": "Medium",
+          "description": "Phones in landscape, tablets",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "small-collection",
+          "slug": "breakpoint--collection--small",
+          "title": "Small",
+          "description": "Mobile phones and tiny screens",
           "exampleContent": null
         }
       },
@@ -356,10 +356,10 @@
       {
         "type": "color",
         "props": {
-          "red": 84,
-          "blue": 90,
+          "red": 14,
+          "blue": 27,
           "alpha": 1,
-          "green": 81
+          "green": 62
         },
         "details": {
           "id": "q5DDObpo76",
@@ -373,10 +373,10 @@
       {
         "type": "color",
         "props": {
-          "red": 164,
-          "blue": 176,
+          "red": 126,
+          "blue": 115,
           "alpha": 1,
-          "green": 164
+          "green": 244
         },
         "details": {
           "id": "rCgAA7bXsd",
@@ -3541,13 +3541,30 @@
           "collectionId": "default-typography",
           "exampleContent": "Example"
         }
+      },
+      {
+        "type": "color",
+        "props": {
+          "red": 62,
+          "blue": 62,
+          "alpha": 1,
+          "green": 62
+        },
+        "details": {
+          "id": "XERpmK9gwv",
+          "slug": "accents--grey",
+          "title": "Grey",
+          "description": "",
+          "collectionId": "CpuWPLwIHV",
+          "exampleContent": null
+        }
       }
     ],
     "formatVersion": 30,
     "status": "saved",
-    "revision": 2,
-    "createdAt": "2025-05-09T10:49:13.253Z",
-    "modifiedAt": "2025-05-09T10:49:13.253Z"
+    "revision": 5,
+    "createdAt": "2025-05-11T18:32:21.363Z",
+    "modifiedAt": "2025-05-12T19:50:20.134Z"
   },
   {
     "libraryId": "generated",
@@ -3594,19 +3611,6 @@
           "slug": "vidaloka",
           "title": "Vidaloka",
           "description": "",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "large-collection",
-          "slug": "large",
-          "title": "Large",
-          "description": "Large tablets, desktops, tvs",
           "exampleContent": null
         }
       },
@@ -3659,19 +3663,6 @@
         }
       },
       {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "medium-collection",
-          "slug": "breakpoint--collection--medium",
-          "title": "Medium",
-          "description": "Phones in landscape, tablets",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "breakpoint",
         "props": {
           "query": "(min-width: 768px) and (max-width: 991px)",
@@ -3684,19 +3675,6 @@
           "title": "Medium",
           "description": "",
           "collectionId": "medium-collection",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "small-collection",
-          "slug": "breakpoint--collection--small",
-          "title": "Small",
-          "description": "Mobile phones and tiny screens",
           "exampleContent": null
         }
       },
@@ -3729,6 +3707,45 @@
           "title": "Extra small",
           "description": "",
           "collectionId": "small-collection",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "large-collection",
+          "slug": "large",
+          "title": "Large",
+          "description": "Large tablets, desktops, tvs",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "medium-collection",
+          "slug": "breakpoint--collection--medium",
+          "title": "Medium",
+          "description": "Phones in landscape, tablets",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "small-collection",
+          "slug": "breakpoint--collection--small",
+          "title": "Small",
+          "description": "Mobile phones and tiny screens",
           "exampleContent": null
         }
       },
@@ -3906,10 +3923,10 @@
       {
         "type": "color",
         "props": {
-          "red": 84,
-          "blue": 90,
+          "red": 14,
+          "blue": 27,
           "alpha": 1,
-          "green": 81
+          "green": 62
         },
         "details": {
           "id": "q5DDObpo76",
@@ -3923,10 +3940,10 @@
       {
         "type": "color",
         "props": {
-          "red": 164,
-          "blue": 176,
+          "red": 126,
+          "blue": 115,
           "alpha": 1,
-          "green": 164
+          "green": 244
         },
         "details": {
           "id": "rCgAA7bXsd",
@@ -7095,9 +7112,9 @@
     ],
     "formatVersion": 30,
     "status": "staged",
-    "revision": 1,
-    "createdAt": "2025-05-09T10:49:13.243Z",
-    "modifiedAt": "2025-05-09T10:49:13.243Z"
+    "revision": 4,
+    "createdAt": "2025-05-11T18:32:21.363Z",
+    "modifiedAt": "2025-05-12T02:19:48.321Z"
   },
   {
     "libraryId": "generated",
@@ -7144,19 +7161,6 @@
           "slug": "vidaloka",
           "title": "Vidaloka",
           "description": "",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "large-collection",
-          "slug": "large",
-          "title": "Large",
-          "description": "Large tablets, desktops, tvs",
           "exampleContent": null
         }
       },
@@ -7209,19 +7213,6 @@
         }
       },
       {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "medium-collection",
-          "slug": "breakpoint--collection--medium",
-          "title": "Medium",
-          "description": "Phones in landscape, tablets",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "breakpoint",
         "props": {
           "query": "(min-width: 768px) and (max-width: 991px)",
@@ -7234,19 +7225,6 @@
           "title": "Medium",
           "description": "",
           "collectionId": "medium-collection",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "small-collection",
-          "slug": "breakpoint--collection--small",
-          "title": "Small",
-          "description": "Mobile phones and tiny screens",
           "exampleContent": null
         }
       },
@@ -7279,6 +7257,45 @@
           "title": "Extra small",
           "description": "",
           "collectionId": "small-collection",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "large-collection",
+          "slug": "large",
+          "title": "Large",
+          "description": "Large tablets, desktops, tvs",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "medium-collection",
+          "slug": "breakpoint--collection--medium",
+          "title": "Medium",
+          "description": "Phones in landscape, tablets",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "small-collection",
+          "slug": "breakpoint--collection--small",
+          "title": "Small",
+          "description": "Mobile phones and tiny screens",
           "exampleContent": null
         }
       },
@@ -7456,10 +7473,10 @@
       {
         "type": "color",
         "props": {
-          "red": 84,
-          "blue": 90,
+          "red": 14,
+          "blue": 27,
           "alpha": 1,
-          "green": 81
+          "green": 62
         },
         "details": {
           "id": "q5DDObpo76",
@@ -7473,10 +7490,10 @@
       {
         "type": "color",
         "props": {
-          "red": 164,
-          "blue": 176,
+          "red": 126,
+          "blue": 115,
           "alpha": 1,
-          "green": 164
+          "green": 244
         },
         "details": {
           "id": "rCgAA7bXsd",
@@ -10645,8 +10662,8 @@
     ],
     "formatVersion": 30,
     "status": "published",
-    "revision": 0,
-    "createdAt": "2025-05-09T10:49:13.232Z",
-    "modifiedAt": "2025-05-09T10:49:13.232Z"
+    "revision": 4,
+    "createdAt": "2025-05-11T18:32:21.363Z",
+    "modifiedAt": "2025-05-12T02:19:48.321Z"
   }
 ]

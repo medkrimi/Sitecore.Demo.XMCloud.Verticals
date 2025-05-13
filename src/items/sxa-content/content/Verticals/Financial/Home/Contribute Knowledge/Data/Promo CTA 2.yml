@@ -1,0 +1,13 @@
+﻿---
+ID: "75c34af0-bf58-4d9a-b7cf-3b57cc6fd133"
+Parent: "6afe5572-39ca-484a-b27d-df6378027bce"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/Financial/Home/Contribute Knowledge/Data/Promo CTA 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41e582b9-a50a-4204-8345-f8f8fde8f8c5"

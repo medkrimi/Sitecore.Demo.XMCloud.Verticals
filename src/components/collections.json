@@ -75,16 +75,23 @@
         "collectionId": "ZvLugTjxGu",
         "name": "Product teaser list",
         "description": "",
-        "status": "changed",
+        "status": "published",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 2,
+        "embeddableVersionCount": 3,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:27:58.572Z",
-        "stagedAt": null,
-        "publishedAt": "2023-06-08T14:31:06.461Z",
-        "modifiedAt": "2025-05-09T10:49:13.439Z",
-        "modifiedBy": {},
+        "stagedAt": "2023-06-09T10:17:20.928Z",
+        "publishedAt": "2023-06-09T10:17:20.928Z",
+        "modifiedAt": "2023-06-09T10:17:20.928Z",
+        "modifiedBy": {
+          "id": "62f3ba1cba5df761961e5a78",
+          "name": "Sintija Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
+        },
         "bundles": []
       },
       {
@@ -119,9 +126,47 @@
     "id": "default",
     "name": "Default collection",
     "isDefault": true,
-    "orderIdx": null,
+    "orderIdx": "",
     "createdAt": "2023-06-28T12:45:53.685Z",
     "modifiedAt": "2023-06-28T12:45:53.685Z",
-    "components": []
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "-hH_qoVRxE",
+        "collectionId": "default",
+        "name": "BCG - Promo Image Left",
+        "description": "",
+        "status": "published",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2025-05-12T19:51:00.281Z",
+        "stagedAt": "2025-05-12T19:52:29.411Z",
+        "publishedAt": "2025-05-12T19:52:29.411Z",
+        "modifiedAt": "2025-05-12T19:52:29.411Z",
+        "modifiedBy": {
+          "id": "62d57546011dc8d027e13a5a",
+          "name": "Mohamed Krimi",
+          "email": "mohamed.krimi@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/9f52df19a4b6fe424f34ce90388c475f?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fmo.png",
+          "givenName": "Mohamed",
+          "familyName": "Krimi"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "-hH_qoVRxE",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2025-05-12T19:51:21.332Z",
+            "modifiedAt": "2025-05-12T19:51:21.332Z"
+          }
+        ]
+      }
+    ]
   }
 ]

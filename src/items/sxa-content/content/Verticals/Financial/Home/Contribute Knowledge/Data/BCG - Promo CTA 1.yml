@@ -1,0 +1,37 @@
+﻿---
+ID: "5b92b32e-3d76-40cc-9477-104bc8497d59"
+Parent: "6afe5572-39ca-484a-b27d-df6378027bce"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/Financial/Home/Contribute Knowledge/Data/BCG - Promo CTA 1"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "baba040b-a2ab-43dc-a546-c87f0127a805"
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <Image src="https://east-bcg.sitecoresandbox.cloud/api/public/content/8f08eefd8654434fa2f1c0570ac00b05?v=55bd2344" dam-id="jqQBGMsTTrCJrr3csQKW4Q" width="1093" height="1093" alt="abstract background.webp" dam-content-type="Image" thumbnailsrc="https://east-bcg.sitecoresandbox.cloud/api/gateway/35046/thumbnail" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Share Your Knowledge. Influence Our Collective Wisdom.
+    - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
+      Hint: Eyebrow
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7fc0fd12-406e-40c7-bc02-0ce9089be49a"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p style="text-align:center;">Hey there! Feel free to fill out the form below to share your awesome knowledge and experiences with us. Your unique insights might just spark the next big idea or a clever solution. When you share your thoughts, you get to inspire others and join a community where creativity is always in action.</p><p>&nbsp;</p></div>
+    - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
+      Hint: Subtitle
+      Value: "Each insight is valuable—your input fuels smarter decisions throughout BCG. Contribute today!"
