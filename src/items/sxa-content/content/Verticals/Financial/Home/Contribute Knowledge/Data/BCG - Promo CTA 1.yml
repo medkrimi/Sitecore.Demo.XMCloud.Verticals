@@ -27,11 +27,10 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7fc0fd12-406e-40c7-bc02-0ce9089be49a"
+      Value: "ed19b59d-0909-46ec-84f0-3f56f6fbf413"
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
-      Value: |
-        <div class="ck-content"><p style="text-align:center;">Hey there! Feel free to fill out the form below to share your awesome knowledge and experiences with us. Your unique insights might just spark the next big idea or a clever solution. When you share your thoughts, you get to inspire others and join a community where creativity is always in action.</p><p>&nbsp;</p></div>
+      Value: 
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: "Each insight is valuable—your input fuels smarter decisions throughout BCG. Contribute today!"
